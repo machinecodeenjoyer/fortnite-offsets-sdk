@@ -1,6 +1,6 @@
 namespace offsets
 {
-  uintptr_t uworld = 0xE7B9A48;
-  uintptr_t gnames = 0xE950900;
-  uintptr_t gobjects = 0xE793240;
+  uintptr_t uworld = 0xE938D58;
+  uintptr_t gnames = 0xEAD3AC0;
+  uintptr_t gobjects = 0xE9125C0;
 }
