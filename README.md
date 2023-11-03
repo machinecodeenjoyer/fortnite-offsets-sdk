@@ -1,6 +1,6 @@
 # always updating offsets/sdk
 latest sdk version:
-version: Fortnite-Release-26.30
-build_date: 2023-10-09T16:09:54.030Z
+version: Fortnite-Release-27.00
+build_date: 2023-11-01T06:55:55.454Z
 new discord:
 https://discord.gg/SzCVjXdB8S 
